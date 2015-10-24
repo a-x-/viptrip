@@ -1,7 +1,7 @@
 # viptrip
 Croudfunding rent luxury sportcar
 
-> #viptrip15
+> `#viptrip15`
 
 ## The rules
 1. Побыть за рулём на ходу запрещено
